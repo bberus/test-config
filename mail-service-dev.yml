@@ -1,3 +1,5 @@
 component:
     name: mail-service-DEV
-    
+
+activemq:
+    broker-url: tcp://172.21.0.6:61666
