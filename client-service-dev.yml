@@ -1,3 +1,5 @@
 component:
     name: client-service-DEV
+activemq:
+    broker-url: tcp://172.21.0.6:61616
     
