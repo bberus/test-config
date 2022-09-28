@@ -1,6 +1,6 @@
 config:
   fizenConnectorUrl: localhost:8080
   
-  fizen:
-    test_value_key:
-      test_value_from_map
+fizen:
+  test_value_key: test_value_from_map
+  test_value_key2: test_value_from_map2
