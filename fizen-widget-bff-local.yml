@@ -1,0 +1,2 @@
+config:
+  fizenConnectorUrl: localhost:8080
