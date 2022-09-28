@@ -1,5 +1,7 @@
 config:
   fizenConnectorUrl: localhost:8080
+  apiKey: 8693485c2698ff0316f14da3c30a18c97a4d0681
+  token: YzFkMDk4ZTM5MDUxMjI0ZTdmZjhjZTFkZjIxZGZiMWQ0OTZlYzc3NQ==
   fizen:
     nasz-klient-1: 
       clientRedirectUrl: localhost:8988
