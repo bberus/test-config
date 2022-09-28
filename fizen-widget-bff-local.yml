@@ -1,5 +1,7 @@
 config:
   fizenConnectorUrl: localhost:8080
   fizen:
-    test_value_key: test_value_from_map
-    test_value_key2: test_value_from_map2
+    nasz-klient-1: 
+      clientRedirectUrl: localhost:8988
+    nasz-klient-2: 
+      clientRedirectUrl: localhost:8911
